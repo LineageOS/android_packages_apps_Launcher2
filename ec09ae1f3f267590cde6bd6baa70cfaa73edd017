@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAANX///RE\u003d",
+        "filename": "src/com/android/launcher2/preference/PreferencesProvider.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1039
+      },
+      "writtenOn": "2011-12-10T23:49:17Z",
+      "side": 1,
+      "message": "default to false for new users... Should use frameworks preference, maybe the lockscreen one ? or just set it to true...",
+      "revId": "ec09ae1f3f267590cde6bd6baa70cfaa73edd017",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
