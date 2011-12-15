@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAN3////g\u003d",
+        "filename": "src/com/android/launcher2/Workspace.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 327,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2011-12-15T04:09:34Z",
+      "side": 1,
+      "message": "Uneeded precision.\nmNumberHomescreens / 2; Is equivalent.",
+      "revId": "479fb3d7dd694264324e9938486614e0fc0f109e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAN3////k\u003d",
+        "filename": "src/com/android/launcher2/Workspace.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 329,
+      "author": {
+        "id": 940
+      },
+      "writtenOn": "2011-12-15T04:09:34Z",
+      "side": 1,
+      "message": "Same here.",
+      "revId": "479fb3d7dd694264324e9938486614e0fc0f109e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
