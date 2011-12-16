@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOH///wQ\u003d",
+        "filename": "src/com/android/launcher2/Workspace.java",
+        "patchSetId": 6
+      },
+      "lineNbr": 329,
+      "author": {
+        "id": 1063
+      },
+      "writtenOn": "2011-12-16T21:52:55Z",
+      "side": 1,
+      "message": "Why different formulas here?\nSuggestion: use a very large fallback value in the provider query, this should eliminate the need for one of the two formulas.",
+      "revId": "8f064a37264a3023d0af5590ee24def6e1ee0904",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
