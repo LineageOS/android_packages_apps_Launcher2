@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAOH///yA\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2011-12-16T17:26:03Z",
+      "side": 1,
+      "message": "Vielleicht \u0027Mit Apps Verbinden\u0027 oder sowas?",
+      "revId": "60ec189155f27da405e225e8db37c9b69b20955b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "AAAAOH///x8\u003d",
+        "filename": "res/values-de/strings.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 120,
+      "author": {
+        "id": 1309
+      },
+      "writtenOn": "2011-12-16T17:26:03Z",
+      "side": 1,
+      "message": "Symbole",
+      "revId": "60ec189155f27da405e225e8db37c9b69b20955b",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
